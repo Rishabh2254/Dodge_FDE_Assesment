@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Keep data files (pre-built DB and graph for deployment)
+# data/o2c.db  → keep this
+# data/graph.json → keep this
