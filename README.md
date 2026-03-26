@@ -9,8 +9,8 @@ A **graph-based data modeling and query system** for SAP Order-to-Cash (O2C) dat
 
 ## Live Demo
 
-> 🔗 **[Demo Link]** — *(add after deployment)*  
-> 📦 **[GitHub Repository]** — *(add after deployment)*
+> 🔗 **[Demo Link]** — https://dodge-fde-assesment.vercel.app
+> 📦 **[GitHub Repository]** — https://github.com/Rishabh2254/Dodge_FDE_Assesment.git
 
 ---
 
